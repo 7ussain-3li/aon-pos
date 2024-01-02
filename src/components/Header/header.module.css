@@ -13,3 +13,11 @@
   display: flex;
   gap: 20px;
 }
+
+.header ul li a:hover {
+  color: #25888e;
+}
+
+.header ul li.active a {
+  color: #25888e;
+}
